@@ -35,19 +35,15 @@ Before running this application, make sure you have installed:
 
 ### 1. Clone and Install Dependencies
 
-```bash
 # Install all dependencies
 npm install
-```
 
 ### 2. Database Setup
 
 #### MySQL Setup:
 1. Start your MySQL server
 2. Create a database (optional - the app will create it automatically):
-```sql
 CREATE DATABASE auth_system;
-```
 
 #### MongoDB Setup:
 1. Start your MongoDB server
@@ -57,7 +53,7 @@ CREATE DATABASE auth_system;
 
 Update the `.env` file with your database credentials:
 
-```env
+
 # MySQL Configuration
 MYSQL_HOST=localhost
 MYSQL_USER=your_mysql_username
@@ -71,14 +67,10 @@ MONGODB_DATABASE=auth_system_profiles
 # Server Configuration
 PORT=3001
 NODE_ENV=development
-```
 
 ### 4. Run the Application
-
-```bash
 # Start both frontend and backend concurrently
 npm run dev
-```
 
 This will start:
 - **Frontend**: http://localhost:5173
@@ -86,17 +78,15 @@ This will start:
 
 ### Alternative: Run Separately
 
-```bash
 # Terminal 1 - Frontend
 npm run dev:client
 
 # Terminal 2 - Backend
 npm run dev:server
-```
+
 
 ## 📁 Project Structure
 
-```
 project-root/
 ├── src/                          # React frontend
 │   ├── components/               # React components
@@ -115,7 +105,6 @@ project-root/
 │   └── server.js                # Express server
 ├── .env                         # Environment variables
 └── README.md                    # Documentation
-```
 
 ## 🔐 Security Features
 
@@ -151,15 +140,13 @@ project-root/
 ## 🚀 Production Deployment
 
 ### Frontend Build:
-```bash
 npm run build
-```
+
 
 ### Environment Variables for Production:
 Update `.env` with production database credentials and set:
-```env
+
 NODE_ENV=production
-```
 
 ## 🐛 Troubleshooting
 
@@ -193,3 +180,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub.
+# -Neoryde-Authentication-System
