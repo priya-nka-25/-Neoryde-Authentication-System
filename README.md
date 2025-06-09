@@ -181,3 +181,14 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For questions or support, please open an issue on GitHub.
 # -Neoryde-Authentication-System
+
+## Output Screenshots
+![Image](https://github.com/user-attachments/assets/6726efb3-bffa-4d9a-a89d-062f05cb265d)
+
+![Image](https://github.com/user-attachments/assets/617be957-be90-44a4-9e25-c0c4631a75a2)
+
+![Image](https://github.com/user-attachments/assets/daa5b680-c520-4140-a87a-b47979f319e9)
+
+![Image](https://github.com/user-attachments/assets/ccd737e1-925f-4b23-b239-058ff2a812bd)
+
+![Image](https://github.com/user-attachments/assets/28f66fe9-b6ec-400b-bae3-9a26a8d06e88)
